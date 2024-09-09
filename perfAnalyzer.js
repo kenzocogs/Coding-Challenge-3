@@ -30,5 +30,9 @@ function determinePerformanceRating (AverageSales) {
 }
 
  // Output: "Performance Rating: Needs Improvement"
+
+ // Task 3: Create a Function to Identify Top and Bottom Performers
+ 
+ function findTopandBottomPerformers(SalesData)
     
  
